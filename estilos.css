@@ -1,0 +1,176 @@
+#iconuno{
+    margin-left: 20px;
+}
+#icondos{
+    margin-left: 300px;
+}
+#icontres{
+    margin-left: 300px;
+}
+#iconcuatro{
+    margin-left: 300px;
+}
+
+.titulo{
+    text-align: right;
+}
+
+.education{
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.educar{
+    padding: 25px 25px 25px 0px;
+    width: 50%;
+    text-align: justify;
+}
+.contenedor-educacion{
+    display: flex;
+}
+
+/* .border{
+    padding-left: 25px;
+    border-left: 3px solid black;
+}
+ */
+
+.experiencia{
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.trabajo{
+    padding: 25px 25px 25px 0px;
+    width: 50%;
+    text-align: justify;
+}
+.contenedor-experiencia{
+    display: flex;
+    justify-content: right;  
+}
+
+.border{
+    padding-left: 95px;
+    border-left: 3px solid black;
+}   
+.textouno{
+    padding: 10px 0 0px 0%;
+}
+.progreso{
+    margin-left: 20px;
+    
+}
+.progresouno{
+    margin-left:15px; 
+}
+
+.progresodos{
+    margin-left:60px; 
+}
+
+.progresotres{
+    margin-left:5px; 
+}
+
+.progresocuatro{
+    margin-left:5px; 
+}
+.progresocinco{
+    margin-left:25px; 
+    
+}
+
+.progresoseis{
+    margin-left:25px; 
+}
+
+.progresonueve{
+
+    margin-left:5px; 
+
+}
+.raya{
+    padding-top: 5px;
+    border-top: 1px solid black;   
+}
+
+.rayauno{
+    padding-top: 10px;
+    padding: 10px 10px 10px 10px;
+    border-top: 1px solid black;   
+}
+.icono{
+    width: 50px;
+    height: 100%;
+}
+
+#imagencero{
+    width:70px;
+    height:70px;
+    margin-left: 40px;
+    border-radius:50%;
+    border: 5px solid black;
+}
+
+#imagenuno{
+    width:70px;
+    height:70px;
+    margin-left: 190px;
+    border-radius:50%;
+    border: 5px solid black;
+}
+
+#imagendos{
+    width:70px;
+    height:70px;
+    margin-left: 190px;
+    border-radius:50%;
+    border: 5px solid black;
+}
+
+
+#imagentres{
+    width:70px;
+    height:70px;
+    margin-left: 190px;
+    border-radius:50%;
+    border: 5px solid black;
+}
+
+#imagencuatro{
+    width:70px;
+    height:70px;
+    margin-left: 190px;
+    border-radius:50%;
+    border: 5px solid black;
+}
+
+#imagencinco{
+    width:70px;
+    height:70px;
+    margin-left: 190px;
+    border-radius:50%;
+    border: 5px solid black;
+    
+}
+
+/* 
+/
+.barra-proceso{
+    background-color: white;
+    width: 80%;
+    height: 20px;   
+    border-radius: 10px;
+}
+.barra-procesoContenedorCOPY {
+    background-color: black;
+    height: 100%;
+    border-radius: 12px;
+
+    display: flex;
+justify-content: right;  
+color: white;
+font-size: 90px;
+}
+ */ 
