@@ -1,31 +1,52 @@
-#iconuno{
+* {
+    margin: 10px;
+
+}
+
+.orden {
+    margin-left: 15px;
+}
+
+#iconuno {
     margin-left: 20px;
 }
-#icondos{
-    margin-left: 300px;
-}
-#icontres{
-    margin-left: 300px;
-}
-#iconcuatro{
+
+#icondos {
     margin-left: 300px;
 }
 
-.titulo{
+#icontres {
+    margin-left: 300px;
+}
+
+#iconcuatro {
+    align-items: end;
+    margin-left: 150spx;
+}
+
+#titugrande {
+    font-size: 50px;
+}
+
+.titulo {
     text-align: right;
 }
 
-.education{
-    width: 100%;
-    padding-left: 50px;
-    padding-right: 50px;
+.education {
+    width: 100%;    
+    padding-left: 0;
+    padding-right: 0px;
+    margin: 0%;
 }
-.educar{
+
+.educar {
     padding: 25px 25px 25px 0px;
     width: 50%;
     text-align: justify;
+    margin: 0%;
 }
-.contenedor-educacion{
+
+.contenedor-educacion {
     display: flex;
 }
 
@@ -35,77 +56,101 @@
 }
  */
 
-.experiencia{
-    width: 100%;
+
+
+.dosbor {
     padding-left: 50px;
-    padding-right: 50px;
+    border-left: 3px solid black;
 }
-.trabajo{
+
+
+
+.experiencia {
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0%;
+}
+
+.trabajo {
     padding: 25px 25px 25px 0px;
     width: 50%;
     text-align: justify;
-}
-.contenedor-experiencia{
-    display: flex;
-    justify-content: right;  
+    margin: 0%;
 }
 
-.border{
+.contenedor-experiencia {
+    display: flex;
+    justify-content: right;
+}
+
+.border {
     padding-left: 95px;
     border-left: 3px solid black;
-}   
-.textouno{
+}
+
+.bordeado {
+    padding-left: 200px;
+    border-left: 300px
+}
+
+.textouno {
     padding: 10px 0 0px 0%;
 }
-.progreso{
+
+.progreso {
     margin-left: 20px;
-    
-}
-.progresouno{
-    margin-left:15px; 
-}
-
-.progresodos{
-    margin-left:60px; 
-}
-
-.progresotres{
-    margin-left:5px; 
-}
-
-.progresocuatro{
-    margin-left:5px; 
-}
-.progresocinco{
-    margin-left:25px; 
-    
-}
-
-.progresoseis{
-    margin-left:25px; 
-}
-
-.progresonueve{
-
-    margin-left:5px; 
 
 }
-.raya{
+
+.progresouno {
+    margin-left: 15px;
+}
+
+.progresodos {
+    margin-left: 60px;
+}
+
+.progresotres {
+    margin-left: 5px;
+}
+
+.progresocuatro {
+    margin-left: 5px;
+}
+
+.progresocinco {
+    margin-left: 25px;
+
+}
+
+.progresoseis {
+    margin-left: 25px;
+}
+
+.progresonueve {
+
+    margin-left: 5px;
+
+}
+
+.raya {
     padding-top: 5px;
-    border-top: 1px solid black;   
+    border-top: 1px solid black;
 }
 
-.rayauno{
+.rayauno {
     padding-top: 10px;
     padding: 10px 10px 10px 10px;
-    border-top: 1px solid black;   
+    border-top: 1px solid black;
 }
-.icono{
+
+.icono {
     width: 50px;
     height: 100%;
 }
 
-#imagencero{
+/* #imagencero{
     width:70px;
     height:70px;
     margin-left: 40px;
@@ -113,7 +158,7 @@
     border: 5px solid black;
 }
 
-#imagenuno{
+#imageshobbies{
     width:70px;
     height:70px;
     margin-left: 190px;
@@ -154,6 +199,59 @@
     border: 5px solid black;
     
 }
+ */
+
+
+
+
+.educationss {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0px;
+
+}
+
+.educartr {
+    width: 100%;
+    padding-bottom: 10px;
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 0px;
+
+
+}
+
+#color {
+    background-color: bisque;
+}
+
+.contenedor-educacionss {
+    display: flex;
+}
+
+.bordeadoss {
+    text-align: right;
+
+
+}
+
+.hobbies {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+}
+
+
+
+#imageshobbies {
+    border-radius: 50%;
+    border: 10px;
+    width: 40px;
+    height: 40px;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px;
+}
 
 /* 
 /
@@ -173,4 +271,4 @@ justify-content: right;
 color: white;
 font-size: 90px;
 }
- */ 
+ */
