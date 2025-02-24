@@ -6,6 +6,11 @@
 .orden {
     margin-left: 15px;
 }
+p{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
 
 #iconuno {
     margin-left: 20px;
@@ -13,6 +18,9 @@
 
 #icondos {
     margin-left: 250px;
+}
+p.parrafo{
+    margin: 0%;
 }
 
 #icontres {
@@ -229,22 +237,3 @@
     padding: 10px;
 }
 
-/* 
-/
-.barra-proceso{
-    background-color: white;
-    width: 80%;
-    height: 20px;   
-    border-radius: 10px;
-}
-.barra-procesoContenedorCOPY {
-    background-color: black;
-    height: 100%;
-    border-radius: 12px;
-
-    display: flex;
-justify-content: right;  
-color: white;
-font-size: 90px;
-}
- */
